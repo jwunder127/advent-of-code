@@ -3,7 +3,8 @@
 const fs = require("fs");
 
 /*
-PROMPT
+https://adventofcode.com/2023/day/2
+PROMPT 
 
 I. Given a game of "gems" in which an elf pulls several handfuls of gems from a bag, 
 determine if a game is possible if there are a maximum of 12 red, 13 green, and 14 blue

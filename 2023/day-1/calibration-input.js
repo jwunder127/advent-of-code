@@ -1,5 +1,10 @@
 #!/usr/bin/env node
 
+/*
+PROMPT
+https://adventofcode.com/2023/day/1
+*/
+
 const fs = require('fs')
 
 fs.readFile('./calibration-input.txt', 'utf8', (err, data) => {
